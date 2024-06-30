@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model MVC3.Models.ViewModel.AddBookViewModel
+
+<div class="container">
+    <form class="row g-3" method="post" action="Add">
+        <div class="col-md-4">
+            <label class="form-label">Name</label>
+            <input type="text" class="form-control" asp-for="BookName" />
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">AuthorName</label>
+            <input type="text" class="form-control" asp-for="AuthorName" />
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">PublishDate</label>
+            <input type="date" class="form-control" asp-for="PublishDate" />
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">Price</label>
+            <input type="number" class="form-control" asp-for="Price" />
+        </div>
+        
+        <div class="col-12">
+            <input type="submit" value="Add" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+

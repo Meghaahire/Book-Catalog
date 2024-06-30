@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\migrations\\20240606052550_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\migrations\\20240606052550_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\views\\books\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\views\\books\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\views\\books\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\views\\books\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\models\\viewmodel\\updatebookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\models\\viewmodel\\updatebookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\models\\viewmodel\\addbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\models\\viewmodel\\addbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\models\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\models\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|c:\\users\\disk\\desktop\\.net\\mvc3\\mvc3\\mvc3\\data\\mvc3dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE468F9-72E2-4B29-9C08-8D7E7A855B4F}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\data\\mvc3dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Views\\Books\\View.cshtml",
+              "RelativeDocumentMoniker": "MVC3\\Views\\Books\\View.cshtml",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Views\\Books\\View.cshtml",
+              "RelativeToolTip": "MVC3\\Views\\Books\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T06:55:26.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateBookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Models\\ViewModel\\UpdateBookViewModel.cs",
+              "RelativeDocumentMoniker": "MVC3\\Models\\ViewModel\\UpdateBookViewModel.cs",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Models\\ViewModel\\UpdateBookViewModel.cs",
+              "RelativeToolTip": "MVC3\\Models\\ViewModel\\UpdateBookViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:53:04.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC3\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "MVC3\\Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T06:41:17.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddBookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Models\\ViewModel\\AddBookViewModel.cs",
+              "RelativeDocumentMoniker": "MVC3\\Models\\ViewModel\\AddBookViewModel.cs",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Models\\ViewModel\\AddBookViewModel.cs",
+              "RelativeToolTip": "MVC3\\Models\\ViewModel\\AddBookViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:35:04.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Views\\Books\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVC3\\Views\\Books\\Add.cshtml",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Views\\Books\\Add.cshtml",
+              "RelativeToolTip": "MVC3\\Views\\Books\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T05:33:53.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "MVC3\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "MVC3\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAGQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:29:14.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T06:30:52.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240606052550_Initial1.cs",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Migrations\\20240606052550_Initial1.cs",
+              "RelativeDocumentMoniker": "MVC3\\Migrations\\20240606052550_Initial1.cs",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Migrations\\20240606052550_Initial1.cs",
+              "RelativeToolTip": "MVC3\\Migrations\\20240606052550_Initial1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:25:51.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Program.cs",
+              "RelativeDocumentMoniker": "MVC3\\Program.cs",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Program.cs",
+              "RelativeToolTip": "MVC3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:19:57.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC3\\appsettings.json",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\appsettings.json",
+              "RelativeToolTip": "MVC3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T05:16:17.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Models\\Domain\\Book.cs",
+              "RelativeDocumentMoniker": "MVC3\\Models\\Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Models\\Domain\\Book.cs",
+              "RelativeToolTip": "MVC3\\Models\\Domain\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:12:29.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MVC3DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Data\\MVC3DbContext.cs",
+              "RelativeDocumentMoniker": "MVC3\\Data\\MVC3DbContext.cs",
+              "ToolTip": "C:\\Users\\DISK\\Desktop\\.Net\\MVC3\\MVC3\\MVC3\\Data\\MVC3DbContext.cs",
+              "RelativeToolTip": "MVC3\\Data\\MVC3DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:09:26.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
